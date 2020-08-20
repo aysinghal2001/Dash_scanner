@@ -16,7 +16,6 @@ export default class App extends React.Component {
           <stack.Screen name="Login" component={Login}/>
           <stack.Screen name="Signup" component={Signup}/>
           <stack.Screen name="home" component={Home} />
-
           <stack.Screen
             name="DocumentConverter"
             component={DocumentConverter}
